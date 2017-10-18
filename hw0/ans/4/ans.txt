@@ -1,0 +1,9 @@
+original dist = 1767.0074844210476
+
+offset translation >> 791.628662212
+
+amplitude >> 8.03557872136
+
+detrend >> 780.4740664315586
+
+noise reduction >> 1704.51067624
